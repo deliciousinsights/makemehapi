@@ -1,6 +1,6 @@
 Créez un serveur hapi qui écoute sur le numéro de port passé en
 ligne de commande, et affiche « Bonjour [nom] », sachant que `[nom]`
-est remplacé par un paramètre de chemin fourni par uner requête GET
+est remplacé par un paramètre de chemin fourni par une requête GET
 sur `/{name}`.
 
 Quand vous aurez terminé le serveur, vous pouvez l’exécuter dans
